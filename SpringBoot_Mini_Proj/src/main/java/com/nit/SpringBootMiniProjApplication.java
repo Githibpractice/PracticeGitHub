@@ -41,7 +41,7 @@ public class SpringBootMiniProjApplication {
 			Employee emp1 = new Employee(eName,deg,sal);
 			eD.insert(emp1);
 			
-			
+			//modification in main.java
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
